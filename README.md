@@ -24,4 +24,4 @@ There is pointer stabilization in versions above 2.6
 
 If you want to build it yourself
 https://sourceforge.net/projects/wiiuse/
-gcc -o wiimote_pointer13 wii.c -lwiiuse -luser32
+gcc -o wiimote_pointer13 wii.c wiiuse user32
