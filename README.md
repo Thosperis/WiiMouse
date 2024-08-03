@@ -1,5 +1,5 @@
 # WiiMouse
-It uses the Wii Controller to move you're mouse.
+It uses the Wii Controller to move your mouse.
 The DPAD Controls the mouse
 The A button is left click
 The B button is not set yet because i'm a fucking retard
