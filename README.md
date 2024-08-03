@@ -28,5 +28,3 @@ gcc -o wiimote_pointer13 wii.c wiiuse user32
 
 Known issue:
 The pointer sometimes doesnt like to track when you use the dpad sometimes, just spam the dpad while pointing until it works
-
-Additionally I am unsatisfied with this outcome, I will be remakeing it from scratch.  
