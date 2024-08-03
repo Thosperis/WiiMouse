@@ -8,3 +8,10 @@ The + button increases the Dpad sensitivity
 The Home button "holds" the mouse in postition so you can move the controller down and use the Dpad instead.
 The 1 button increases the pointer sensitivity
 The 2 button decreases the pointer sensitivity
+
+
+
+
+If you want to build it yourself
+https://sourceforge.net/projects/wiiuse/
+gcc -o wiimote_pointer13 wii.c -lwiiuse -luser32
