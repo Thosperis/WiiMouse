@@ -26,7 +26,7 @@ If you want to build it yourself
 https://sourceforge.net/projects/wiiuse/
 gcc -o wiimote_pointer13 wii.c wiiuse user32
 
-A video has been provided to showcase what it does and what it looks like when functional.
-
 Known issue:
 The pointer sometimes doesnt like to track when you use the dpad sometimes, just spam the dpad while pointing until it works
+
+Additionally I am unsatisfied with this outcome, I will be remakeing it from scratch.  
