@@ -13,7 +13,7 @@ The - button decreases the Dpad sensitivity
 
 The + button increases the Dpad sensitivity
 
-The Home button "holds" the mouse in postition so you can move the controller down and use the Dpad instead.
+The Home button "holds" the mouse in postition so you can move the controller down and use the Dpad instead, Dpad also automatically does this but once you let go it tracks the pointer again.
 
 The 1 button increases the pointer sensitivity
 
@@ -25,3 +25,8 @@ There is pointer stabilization in versions above 2.6
 If you want to build it yourself
 https://sourceforge.net/projects/wiiuse/
 gcc -o wiimote_pointer13 wii.c wiiuse user32
+
+A video has been provided to showcase what it does and what it looks like when functional.
+
+Known issue:
+The pointer sometimes doesnt like to track when you use the dpad sometimes, just spam the dpad while pointing until it works
