@@ -5,7 +5,9 @@ The DPAD Controls the mouse
 
 The A button is left click
 
-The B button is not set yet because i'm a fucking retard
+The B button is right click 2.6 and above
+
+Pressing A & B at the same time will press Windows key 3.0 and above
 
 The - button decreases the Dpad sensitivity
 
@@ -17,7 +19,7 @@ The 1 button increases the pointer sensitivity
 
 The 2 button decreases the pointer sensitivity
 
-
+There is pointer stabalisation in versions above 2.6
 
 
 If you want to build it yourself
