@@ -19,7 +19,7 @@ The 1 button increases the pointer sensitivity
 
 The 2 button decreases the pointer sensitivity
 
-There is pointer stabalisation in versions above 2.6
+There is pointer stabilization in versions above 2.6
 
 
 If you want to build it yourself
